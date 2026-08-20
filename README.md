@@ -75,3 +75,7 @@
 ## 🎥 チュートリアル & ヘルプ
 
 - 🎥 **[YouTube チュートリアル動画](https://www.youtube.com/@tomato_bothelp)**
+
+---
+
+##  [🤖bot link](https://discord.com/oauth2/authorize?client_id=1455558664042582028&permissions=8&integration_type=0&scope=bot)
