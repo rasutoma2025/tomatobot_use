@@ -74,5 +74,4 @@
 
 ## 🎥 チュートリアル & ヘルプ
 
-- 📘 **[GitHub オンライン使い方ガイド](https://github.com/rasutoma2025/tomatobot_use/blob/main/README.md)**
 - 🎥 **[YouTube チュートリアル動画](https://www.youtube.com/@tomato_bothelp)**
