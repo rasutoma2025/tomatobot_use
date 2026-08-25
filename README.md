@@ -36,6 +36,7 @@
 - **`/check_warnings`**: サーバー内に違反・警告履歴があるユーザーを検索（管理者限定）。
 - **`/delmes`**: メッセージを一括削除。
 - **`/ban` / `/timeout`**: ユーザーID直接指定による柔軟な処分。
+- **`/qrcode`**: 入力したURLや文字からQRコード画像を生成。
 - **`/userinfo` / `/serverinfo`**: プロフィールバッジ・バナー画像・サーバー参加順など詳細情報の表示。
 - **`/top`**: チャンネル内の「一番最初の古いメッセージ」へジャンプ。
 
@@ -65,6 +66,7 @@
 | `/delmes` | メッセージをまとめて一括削除します | メッセージ管理権限 |
 | `/ban` | 指定IDのユーザーをBANします | メンバーBAN権限 |
 | `/timeout` | メンバーをタイムアウトします | メンバータイムアウト権限 |
+| `/qrcode` | テキストやURLからQRコード画像を自動生成します | 全員 |
 | `/userinfo` | ユーザーの詳細情報（バナー・参加状況等）を表示します | 全員 |
 | `/serverinfo` | サーバーの基本情報を表示します | 全員 |
 | `/top` | チャンネルの一番最初の古いメッセージへ案内します | 全員 |
@@ -74,8 +76,5 @@
 
 ## 🎥 チュートリアル & ヘルプ
 
+- 📘 **[GitHub オンライン使い方ガイド](https://github.com/rasutoma2025/tomatobot_use/blob/main/README.md)**
 - 🎥 **[YouTube チュートリアル動画](https://www.youtube.com/@tomato_bothelp)**
-
----
-
-##  [🤖bot link](https://discord.com/oauth2/authorize?client_id=1455558664042582028&permissions=8&integration_type=0&scope=bot)
